@@ -1,22 +1,27 @@
 {
   "files": {
-    "main.css": "/ipari-kemence/static/css/main.c69503ff.css",
-    "main.js": "/ipari-kemence/static/js/main.e2c27107.js",
+    "main.css": "/ipari-kemence/static/css/main.f6ebf95c.css",
+    "main.js": "/ipari-kemence/static/js/main.8f31d5a6.js",
     "static/js/453.0b0f69b9.chunk.js": "/ipari-kemence/static/js/453.0b0f69b9.chunk.js",
+    "static/media/egetos2.PNG": "/ipari-kemence/static/media/egetos2.2ea238150eb39488d086.PNG",
     "static/media/szereles.jpg": "/ipari-kemence/static/media/szereles.adcf92a0b972e6831c72.jpg",
+    "static/media/egeto1.jpeg": "/ipari-kemence/static/media/egeto1.8b084669aa1ba44af145.jpeg",
+    "static/media/egeto3.jpeg": "/ipari-kemence/static/media/egeto3.cea05f6c485da971f763.jpeg",
     "static/media/trans_logo.png": "/ipari-kemence/static/media/trans_logo.2be63bdac1595f2207d9.png",
+    "static/media/egeto2.jpeg": "/ipari-kemence/static/media/egeto2.e8248acff702700f24ee.jpeg",
+    "static/media/egeto_utana3.jpg": "/ipari-kemence/static/media/egeto_utana3.a0fc0c4179eb556448ec.jpg",
+    "static/media/egeto_utana2.jpg": "/ipari-kemence/static/media/egeto_utana2.ddf6d2006a45ea6f8ef3.jpg",
     "static/media/CentraNo2-Bold.ttf": "/ipari-kemence/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/ipari-kemence/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/ipari-kemence/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/contact-img.svg": "/ipari-kemence/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
-    "static/media/wake.jpg": "/ipari-kemence/static/media/wake.1d2291e8389fda114d77.jpg",
     "index.html": "/ipari-kemence/index.html",
-    "main.c69503ff.css.map": "/ipari-kemence/static/css/main.c69503ff.css.map",
-    "main.e2c27107.js.map": "/ipari-kemence/static/js/main.e2c27107.js.map",
+    "main.f6ebf95c.css.map": "/ipari-kemence/static/css/main.f6ebf95c.css.map",
+    "main.8f31d5a6.js.map": "/ipari-kemence/static/js/main.8f31d5a6.js.map",
     "453.0b0f69b9.chunk.js.map": "/ipari-kemence/static/js/453.0b0f69b9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c69503ff.css",
-    "static/js/main.e2c27107.js"
+    "static/css/main.f6ebf95c.css",
+    "static/js/main.8f31d5a6.js"
   ]
 }
