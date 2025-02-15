@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ipari-kemence/static/css/main.f6ebf95c.css",
-    "main.js": "/ipari-kemence/static/js/main.8f31d5a6.js",
+    "main.css": "/ipari-kemence/static/css/main.e3dd7ab0.css",
+    "main.js": "/ipari-kemence/static/js/main.29b31fc9.js",
     "static/js/453.0b0f69b9.chunk.js": "/ipari-kemence/static/js/453.0b0f69b9.chunk.js",
     "static/media/egetos2.PNG": "/ipari-kemence/static/media/egetos2.2ea238150eb39488d086.PNG",
     "static/media/szereles.jpg": "/ipari-kemence/static/media/szereles.adcf92a0b972e6831c72.jpg",
@@ -16,12 +16,12 @@
     "static/media/CentraNo2-Book.ttf": "/ipari-kemence/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/contact-img.svg": "/ipari-kemence/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
     "index.html": "/ipari-kemence/index.html",
-    "main.f6ebf95c.css.map": "/ipari-kemence/static/css/main.f6ebf95c.css.map",
-    "main.8f31d5a6.js.map": "/ipari-kemence/static/js/main.8f31d5a6.js.map",
+    "main.e3dd7ab0.css.map": "/ipari-kemence/static/css/main.e3dd7ab0.css.map",
+    "main.29b31fc9.js.map": "/ipari-kemence/static/js/main.29b31fc9.js.map",
     "453.0b0f69b9.chunk.js.map": "/ipari-kemence/static/js/453.0b0f69b9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6ebf95c.css",
-    "static/js/main.8f31d5a6.js"
+    "static/css/main.e3dd7ab0.css",
+    "static/js/main.29b31fc9.js"
   ]
 }
